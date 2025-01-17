@@ -1,6 +1,6 @@
 # Hi, I'm Rashmi 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/rashkam01/rashkam01/master/intro_image9.png" alt="banner that says name title and cartoon image of Rashmi">
+<img src="https://raw.githubusercontent.com/rashkam01/rashkam01/master/intro_image5.png" alt="banner that says name title and cartoon image of Rashmi">
 
 I'm a Data scientist and ML Engineer, experienced in designing and implementing AI/ML solutions, with over 6 years of Data/ IT expertise across industries such as media, retail, e-commerce, and automotive. 
 - Holds an M.Sc. in Data Science from TU Eindhoven/Aalto Finland. I am enthusiastic about Generative AI topics, ethics in Generative AI and community building, some technologies that I enjoy is python, Hugging face transformers, Natural language processing tools in format of text and speech. 
