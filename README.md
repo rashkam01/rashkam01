@@ -1,4 +1,11 @@
 ## Hi there 👋
+# Hi, I'm Monica 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/rashkam01/rashkam01/master/intro_image.png" alt="banner that says name title and cartoon image of Rashmi">
+I'm a Data scientist and ML Engineer, experienced in designing and implementing AI/ML solutions, with over 6 years of Data/ IT expertise across industries such as media, retail, e-commerce, and automotive. Holds an M.Sc. in Data Science from TU Eindhoven/Aalto Finland. I am enthusiastic about Generative AI topics, ethics in Generative AI and community building, some technologies that I enjoy is python, Hugging face transformers, Natural language processing tools in format of text and speech. My interest in the Generative AI co-organize meetupcommunity named GenAI Gurus, where we host talks from experts of the technology and also networking events for professionals and enthusiasts. 
+
+
+- Sharing updates on <a href="https://www.linkedin.com/in/rashmi01/">LinkedIn</a> 💼 
 
 <!--
 **rashkam01/rashkam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
